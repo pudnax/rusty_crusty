@@ -1,0 +1,2 @@
+[workspace]
+members = ["sorting", "channels", "pointers", "linked_list", "query_system"]
